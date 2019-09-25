@@ -1,0 +1,10 @@
+(librepcb_library 3c925232-b0a3-43a2-981c-c1f41f74db45
+ (name "Panasonic")
+ (description "This is an unofficial testing LibrePCB library. Panasonic components with order code of TME.EU.")
+ (keywords "")
+ (author "EdizonTN")
+ (version "0.1")
+ (created 2019-09-25T19:01:39Z)
+ (deprecated false)
+ (url "")
+)
