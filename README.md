@@ -12,7 +12,7 @@ see [wiki](../../wiki/)
 
 
 ## LibrePCB "URL to ZIP file"
-https://github.com/EdizonTN/PANASONIC.lplib/archive/master.zip
+https://github.com/EdizonTN/PANASONIC.lplib/archive/refs/heads/master.zip
 
 
 ## License
